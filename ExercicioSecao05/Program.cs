@@ -45,6 +45,8 @@ namespace ExercicioSecao05
             alunos.UnionWith(alunosC);
 
             Console.Write($"Total de alunos: { alunos.Count}");
+            Console.WriteLine("Iniciando a utilizar o GIT");
+            
             Console.ReadKey();
         }
     }
